@@ -1,4 +1,6 @@
+###################################################################################################################################################
 # whitelister initial version based on REMIX EXAMPLE PROJECT
+###################################################################################################################################################
 
 Remix example project is present when Remix loads very first time or there are no files existing in the File Explorer. 
 It contains 3 directories:
@@ -16,3 +18,4 @@ Scripts have full access to the web3.js and ethers.js libraries.
 To run a script, right click on file name in the file explorer and click 'Run'. Remember, Solidity file must already be compiled.
 
 Output from script will appear in remix terminal.
+###################################################################################################################################################
